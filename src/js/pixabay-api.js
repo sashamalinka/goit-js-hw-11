@@ -2,7 +2,7 @@
 
 import axios from 'axios';
 
-const myApiKey = '49169306-de27c58c14ea5b5fada8fc03c';
+const myApiKey = '49354794-8d42e5f680a360b9f1765bfda';
 const pixabayUrl = 'https://pixabay.com/api/';
 
 export const fetchImages = query =>
